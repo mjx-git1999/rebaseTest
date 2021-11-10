@@ -3,4 +3,3 @@ this is file1.txt.
 rebase 使用+++
 use feature5 add a new change for file1.
 .................
-$$$$$$$$$$$$$$$
