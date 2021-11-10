@@ -2,3 +2,4 @@ this is file1.txt.
 新增一个提交。
 rebase 使用+++
 use feature5 add a new change for file1.
+***********
